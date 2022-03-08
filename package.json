@@ -4,8 +4,8 @@
   "description": "A library for react components.",
   "scripts": {
     "rollup": "rollup -c",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "sb": "start-storybook -p 6006",
+    "build-sb": "build-storybook"
   },
   "author": "VKYC",
   "license": "ISC",
