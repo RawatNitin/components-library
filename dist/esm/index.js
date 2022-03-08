@@ -27,7 +27,7 @@ function styleInject(css, ref) {
   }
 }
 
-var css_248z = ".button{\n    background-color: green;\n    color: white;\n    border: 1px solid green;\n    border-radius: 5%;\n}";
+var css_248z = ".button {\n  background-color: green;\n  color: white;\n  border: 1px solid green;\n  border-radius: 5%;\n}";
 styleInject(css_248z);
 
 const Button = (props) => {

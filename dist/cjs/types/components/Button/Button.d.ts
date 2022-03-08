@@ -1,5 +1,5 @@
 /// <reference types="react" />
-import './button.css';
+import './button.scss';
 interface ButtonProps {
     label: string;
 }
